@@ -1,5 +1,5 @@
 
-# HELMET DETECTION SYSTEM USING ESP32 CAMERA & RASPBERRY PI
+# HELMET DETECTION SYSTEM USING ESP32 CAMERA
 
 Road safety is a critical concern in the modern world, particularly for motorcyclists who are more vulnerable to accidents and injuries. The proposed project addresses this issue by introducing a Helmet Detection System that utilizes the ESP32 Camera and Raspberry Pi to enhance safety measures for motorcyclists. By harnessing the ESP32 Camera’s highresolution imaging capabilities and the Raspberry Pi’s processing power, this system aims to detect helmetless riders in real time, promoting compliance with safety regulations and reducing accident risks. The system employs advanced deep learning algorithms, such as YOLO and SSD, to analyze video feeds from the ESP32 Camera and accurately identify riders not wearing helmets. This approach is ideal for deployment at traffic intersections,
 highways, and other locations where motorcyclists are at risk. The integration of Raspberry Pi allows for flexible data processing and connectivity, enabling seamless communication with centralized monitoring systems. Through this innovative technology, the project seeks to improve road safety by providing authorities with a reliable tool for enforcing helmet regulations, ultimately contributing to a safer environment for all road users. The long-term
